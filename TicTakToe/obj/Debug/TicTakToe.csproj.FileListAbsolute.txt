@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe.config
+C:\Users\User\source\repos\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe
+C:\Users\User\source\repos\TicTakToe\TicTakToe\bin\Debug\TicTakToe.pdb
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.Form1.resources
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.Properties.Resources.resources
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.exe
+C:\Users\User\source\repos\TicTakToe\TicTakToe\obj\Debug\TicTakToe.pdb
